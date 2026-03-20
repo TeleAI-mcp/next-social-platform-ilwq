@@ -1,2 +1,3 @@
-# next-social-platform-ilwq
-Automated issue comment bot repository
+# Next Social Platform Ilwq
+
+Automated issue comment bot repository.
